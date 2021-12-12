@@ -1,1 +1,7 @@
-// Code your solution in this file!
+let companyName = 'Scuber';
+final COMPANYNAME = 'Scuber';
+
+let mostProfitableNeighborhood = 'Chelsea';
+let companyCeo = 'Susan Smith';
+
+
